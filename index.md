@@ -64,10 +64,6 @@
 
 ![屏幕截图 1](./Images/Phigros1.png "屏幕截图 1")
 
----
-
 ![屏幕截图 2](./Images/Phigros2.png "屏幕截图 2")
-
----
 
 ![屏幕截图 3](./Images/Phigros3.png "屏幕截图 3")
