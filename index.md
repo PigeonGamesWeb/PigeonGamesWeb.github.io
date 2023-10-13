@@ -56,7 +56,7 @@
 
 ## 下载
 
-您可以通过 [TapTap](https://www.taptap.cn/app/165287) 、通过 [Google Play](https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros) 下载或通过 [App Store](https://apps.apple.com/cn/app/id1454809109) 下载
+您可以通过 [TapTap](https://www.taptap.cn/app/165287) 、 [Google Play](https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros) 或通过 [App Store](https://apps.apple.com/cn/app/id1454809109) 来下载游戏。
 
 ---
 
